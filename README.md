@@ -76,12 +76,14 @@ for conformer transduction**.
 
 If you use or reference this work, please cite:
 
+```bibtex
 @article{selfconsistentconformer2024,
-title={Self-consistent context aware conformer transducer for speech recognition},
-author={...},
-journal={arXiv preprint arXiv:2402.06592},
-year={2024}
+  title = {Self-consistent context aware conformer transducer for speech recognition},
+  author = {Konstantin Kolokolov, Pavel Pekichev, Karthik Raghunathan},
+  journal = {arXiv preprint arXiv:2402.06592},
+  year = {2024}
 }
+```
 
 
 ## References
